@@ -1,6 +1,4 @@
 - 👋 Hi, I’m @Sameer
-- 👀 I’m interested in web dev as of now
-- 🌱 I’m currently learning type script & express js
 - 📫 you can  reach me sameershivgan18@gmail.com
 
 
